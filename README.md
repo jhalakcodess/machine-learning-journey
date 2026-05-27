@@ -21,3 +21,6 @@ To become a skilled AI/ML Engineer by building practical projects and solving re
 - AI Interview Trainer
 - Resume Analyzer
 - AI Career Mentor
+
+## Completed
+- NumPy Basics Practice
